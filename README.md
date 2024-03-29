@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josephisdumb
 - 👀 I’m interested in coding websites
-- 🌱 I’m currently learning html css js
+- 🌱 I’m currently learning html css js python
 - 💞️ I’m looking to collaborate on makeing websites
 - 📫 How to reach me sahjoseph107@gmail.com
 
