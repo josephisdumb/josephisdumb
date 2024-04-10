@@ -1,4 +1,5 @@
-secret = 67
+import random
+secret = random.randint(1,100)
 guess_count = 0
 guess_limit = 3
 while guess_count < guess_limit:
